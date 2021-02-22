@@ -4,7 +4,7 @@ I am Agnieszka and I am a beginner Java developer.
 
 Currently, I am expanding my knowledge of programming in Java and learning the Angular framework.
 
-I’m working on Library Application 📕📗📘📙
+I'm working on developing a library application 📕📗📘📙
 
 You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew/agneshew/main/linkedin-3-16.png)](https://www.linkedin.com/in/agnieszkahewusz)
 
