@@ -4,9 +4,18 @@ I am Agnieszka and I am a beginner Java developer (or wanna be a developer 👩�
 
 Currently, I am expanding my knowledge of programming in Java and learning the Angular framework.
 
-I'm working on developing a library application 📕📗📘📙
+As the first I created an application library 📕📗📘📙
 
-This application, initially made, only for recruitment, has become my love. First of all, it's mine 😀, secondly (because I love books 😍) it will be used to run my home library (I will always know who I lent the book to).
+This application has <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/java.png" width="30px"> backend and <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/angular.png" width="30px"> frontend.
+
+
+At present, already have experience in writing applications in the backend and frontend part I want to Dean's Office application could create - at the beginning will be used to generate and print timetables students. 
+
+Subsequently, other functionalities will be added, such as exam dates, grades sheet and others.
+
+
+At the same time, in my free time I practice your skills in Java with CodingBat. You can find solutions in my CodingBatJava repository.
+
 
 You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew/agneshew/main/linkedin-3-16.png)](https://www.linkedin.com/in/agnieszkahewusz)
 
