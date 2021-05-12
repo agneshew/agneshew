@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/wave.gif" width="30px">
 
-I am Agnieszka and I am a beginner Java developer (or wanna be a developer 👩🏻‍💻).
+I am Agnieszka and I am a beginner Java developer 👩🏻‍💻.
 
 Currently, I am expanding my knowledge of programming in Java and learning the Angular framework.
 
