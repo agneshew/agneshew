@@ -4,14 +4,17 @@ I am Agnieszka and I am a beginner Java developer 👩🏻‍💻.
 
 Currently, I am expanding my knowledge of programming in Java and learning the Angular framework.
 
-As the first I created an application library 📕📗📘📙
+I created the Library as the first application 📕📗📘📙 
+
+Its task is to store information about the books and their borrowings in the database.
 
 This application has <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/java.png" width="30px"> backend and <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/angular.png" width="30px"> frontend.
 
 
-At present, already have experience in writing applications in the backend and frontend part I want to Dean's Office application could create - at the beginning will be used to generate and print timetables students. 
+Another project I made was the ScrapeIt application - it is used to store files 📁 in the database 💾
 
-Subsequently, other functionalities will be added, such as exam dates, grades sheet and others.
+
+Currently, I want to create an application - Question Generator for Qualification Interviews ❓❔🗳
 
 
 At the same time, in my free time I practice your skills in Java with CodingBat. You can find solutions in my CodingBatJava repository.
