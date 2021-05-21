@@ -30,7 +30,7 @@ You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=ScrapeIt)](https://github.com/agneshew/ScrapeIt)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=CodingBatJava)](https://github.com/agneshew/CodingBatJava)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=InterviewQuestionGenerator)](https://github.com/agneshew/InterviewQuestionGenerator)
 
 
  
