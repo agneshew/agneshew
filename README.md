@@ -11,13 +11,13 @@ Its task is to store information about the books and their borrowings in the dat
 This application has <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/java.png" width="30px"> backend and <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/angular.png" width="30px"> frontend.
 
 
-Another project I made was the ScrapeIt application - it is used to store files 📁 in the database 💾
+Another projects I made was: the ScrapeIt application - it is used to store files in the database, RestApiGithub to present information about GitHub users and few more.
 
 
 Currently, I want to create an application - Question Generator for Qualification Interviews ❓❔🗳
 
 
-At the same time, in my free time I practice your skills in Java. You can find task solutions in my CodingBatJava and Codility repository.
+At the same time, in my free time I practice skills in Java. You can find task solutions in my CodingBatJava and Codility repository.
 
 
 You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew/agneshew/main/linkedin-3-16.png)](https://www.linkedin.com/in/agnieszkahewusz)
@@ -26,11 +26,12 @@ You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=library)](https://github.com/agneshew/library)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=RestApiGithub)](https://github.com/agneshew/RestApiGithub)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=ScrapeIt)](https://github.com/agneshew/ScrapeIt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=Codility)](https://github.com/agneshew/Codility)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agneshew&repo=InterviewQuestionGenerator)](https://github.com/agneshew/InterviewQuestionGenerator)
+
 
 
  
