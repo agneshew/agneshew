@@ -17,7 +17,7 @@ Another project I made was the ScrapeIt application - it is used to store files 
 Currently, I want to create an application - Question Generator for Qualification Interviews ❓❔🗳
 
 
-At the same time, in my free time I practice your skills in Java with CodingBat. You can find solutions in my CodingBatJava repository.
+At the same time, in my free time I practice your skills in Java. You can find task solutions in my CodingBatJava and Codility repository.
 
 
 You can find me on [![linkedin badge](https://raw.githubusercontent.com/agneshew/agneshew/main/linkedin-3-16.png)](https://www.linkedin.com/in/agnieszkahewusz)
