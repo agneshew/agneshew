@@ -8,11 +8,11 @@ I created the Library as the first application 📕📗📘📙
 
 Its task is to store information about the books and their borrowings in the database.
 
-This application has <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/java.png" width="30px"> backend and <img src="https://raw.githubusercontent.com/agneshew/agneshew/main/angular.png" width="30px"> frontend.
+This application has Java backend and Angular frontend.
 
  
  
-I am currently working on the animal helper application.
+I am currently working on the animal helper application and I make applications as part of my professional work - in java and react.
  
  
 
