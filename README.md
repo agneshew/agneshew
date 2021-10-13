@@ -12,7 +12,7 @@ This application has Java backend and Angular frontend.
 
  
  
-I am currently working on the animal helper application and I make applications as part of my professional work - in java and react.
+I am currently working on the animal helper application and I make applications as part of my professional work - in Java and React.
  
  
 
