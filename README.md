@@ -4,15 +4,17 @@ I am Agnieszka and I am a Junior Java Developer 👩🏻‍💻.
 
 Currently, I am expanding my knowledge of programming in Java and learning the React framework.
 
-I created the Library as the first application 📕📗📘📙 
+My last app is Booking App - it can be use to book working place - current office and current desk. 
+In pandemic and hybrid work time it is the best app 🙂💼💻
 
-Its task is to store information about the books and their borrowings in the database.
 
-This application has Java backend and Angular frontend.
+My previous ones app was made in Java. 
+The bigger one:
+1. Library - its task is to store information about the books and their borrowings in the database.
+📕📗📘📙 
+2. Tasks - its task is to store and add tasks to Trello
 
- 
- 
-I am currently working on the animal helper application and I make applications as part of my professional work - in Java and React.
+
  
  
 
